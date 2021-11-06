@@ -1,6 +1,6 @@
 # Anime Web Api with Express .
 
-This api is based on [gogoanime](https://www18.gogoanime.io/)
+This api is based on [gogoanime](https://gogoanime.ai/)
 An Anime Streaming web api to give you a better experience for your web app.
 
 ## Getting Started
